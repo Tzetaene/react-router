@@ -1,0 +1,38 @@
+.nav-wrapper{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    background-color:#FEF4EA;
+}
+
+.navbar-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-grow: 1;
+    font-weight: bold;
+}
+
+.navbar-links{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-links ul{
+    margin: 0px;
+    display: flex;
+}
+
+.navbar-links li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: black;
+}

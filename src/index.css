@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #2b2b2b;
+    font-family: system-ui;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
