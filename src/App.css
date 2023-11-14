@@ -1,6 +1,8 @@
 main{
-    aspect-ratio: 9/16;
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
-    background-color: white;
+    background-color:#FFF7ED;
     color: black;
 }

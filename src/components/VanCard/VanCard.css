@@ -1,0 +1,64 @@
+.van-card-anchor{
+    text-decoration: none;
+    color: black;
+}
+
+.van-card-wrapper{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 8px;
+
+}
+.van-card-img{
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 5px;
+}
+
+.van-card-content{
+    display: flex;
+    align-items: start;
+    gap: 5px;
+}
+
+.van-card-content h3{
+    font-size: 16px;
+    margin: 0px;
+}
+
+.van-card-price{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.van-card-price p{
+    margin: 0px;
+    font-size: 14px;
+}
+
+.van-card-wrapper button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+}
+
+.van-card-button-simple{
+    background: #E17654;
+}
+
+.van-card-button-rugged{
+    background: #115E59;
+}
+
+.van-card-button-luxury{
+    background: #161616;
+}
+
+
+

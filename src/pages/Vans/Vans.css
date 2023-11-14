@@ -1,0 +1,11 @@
+.vans-page-title{
+    font-size: 22px;
+    text-align: center;
+}
+
+.vans-page-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 16px;
+
+}

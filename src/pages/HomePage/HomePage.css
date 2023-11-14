@@ -1,0 +1,12 @@
+.homepage-wrapper{
+    background-color:#FEF4EA;
+}
+
+.homepage-content{
+    min-height: 100vh;
+    padding: 10px;
+}
+
+.homepage-slider-img{
+    width: 100%;
+}
